@@ -124,3 +124,4 @@ This solution was engineered to run fully offline and efficiently on CPU:
 	•	Custom TF-IDF implementation (no heavy ML libraries)
 	•	No internet, no GPUs, no frills
 	•	Fast enough to process documents well within the time and memory limits
+# Adobe_1b
