@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "input_documents": [
+      "EnfoldAI_Engineering_Internship.pdf"
+    ],
+    "persona": "Researcher",
+    "job_to_be_done": "Prepare a literature review of the document’s contributions",
+    "processing_timestamp": "2025-07-26T17:21:46.124Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "EnfoldAI_Engineering_Internship.pdf",
+      "section_title": "About Us:",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "EnfoldAI_Engineering_Internship.pdf",
+      "section_title": "How to Apply",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "EnfoldAI_Engineering_Internship.pdf",
+      "section_title": "●​ Secure Backend Engineering",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "EnfoldAI_Engineering_Internship.pdf",
+      "section_title": "●​ On-Device AI Integration",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "EnfoldAI_Engineering_Internship.pdf",
+      "section_title": "Nice to Have",
+      "importance_rank": 5,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "EnfoldAI_Engineering_Internship.pdf",
+      "refined_text": "You’ll join a small, highly skilled team pushing the boundaries of AI, mobile systems, and security. At EnfoldAI, we’re building the next-generation, consumer-first network of mobile AI agents that detect security threats in real-time.",
+      "page_number": 1
+    },
+    {
+      "document": "EnfoldAI_Engineering_Internship.pdf",
+      "refined_text": "Excited to build the future of financial cybersecurity? We’d love to hear from you!",
+      "page_number": 2
+    },
+    {
+      "document": "EnfoldAI_Engineering_Internship.pdf",
+      "refined_text": "○​ Architect and implement APIs, data pipelines, and auth flows that bridge mobile agents with financial- and law-enforcement systems ○​ Enforce encryption, access control, and audit logging at every layer ●​ Research & Prototyping ○​ Investigate cutting-edge fraud-detection algorithms and build rapid proofs-of-concept ○​ Collaborate with data scientists to turn models into production-grade features",
+      "page_number": 1
+    },
+    {
+      "document": "EnfoldAI_Engineering_Internship.pdf",
+      "refined_text": "○​ Optimize and deploy lightweight ML models on Android/iOS agents ○​ Work with TensorFlow Lite, Core ML, or custom inference engines",
+      "page_number": 1
+    },
+    {
+      "document": "EnfoldAI_Engineering_Internship.pdf",
+      "refined_text": "●​ Coursework or side projects in mobile development, ML on edge devices, or cybersecurity​ ●​ Hands-on experience with cloud platforms (AWS, GCP, Azure)​ ●​ Open-source contributions or published research in related fields",
+      "page_number": 2
+    }
+  ]
+}

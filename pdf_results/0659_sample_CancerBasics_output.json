@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "input_documents": [
+      "0659_sample_CancerBasics.pdf"
+    ],
+    "persona": "Researcher",
+    "job_to_be_done": "Prepare a literature review of the document’s contributions",
+    "processing_timestamp": "2025-07-26T17:17:49.239Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "0659_sample_CancerBasics.pdf",
+      "section_title": "Sustained Angiogenesis",
+      "importance_rank": 1,
+      "page_number": 14
+    },
+    {
+      "document": "0659_sample_CancerBasics.pdf",
+      "section_title": "Figure 1-2. Cancer Stem Cell Theory of Cancer Development",
+      "importance_rank": 2,
+      "page_number": 3
+    },
+    {
+      "document": "0659_sample_CancerBasics.pdf",
+      "section_title": "Ouyang, L., Shi, Z., Zhao, S., Wang, F.-T., Zhou, T.-T., Liu,",
+      "importance_rank": 3,
+      "page_number": 18
+    },
+    {
+      "document": "0659_sample_CancerBasics.pdf",
+      "section_title": "Chapter 1 Study Questions",
+      "importance_rank": 4,
+      "page_number": 19
+    },
+    {
+      "document": "0659_sample_CancerBasics.pdf",
+      "section_title": "Stratton, Campbell, & Futreal, 2009). Different",
+      "importance_rank": 5,
+      "page_number": 7
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "0659_sample_CancerBasics.pdf",
+      "refined_text": "VEGF causes the growth of new vessels, forming a microcirculatory system in a tumor (i.e., angiogenesis). This lack of oxygen also curtails the proliferation of malignant cells (Hanahan & Folkman, 1996).",
+      "page_number": 14
+    },
+    {
+      "document": "0659_sample_CancerBasics.pdf",
+      "refined_text": "Within the nucleus of each normal human cell, 23 pairs of chromosomes are present. Theory: Cancer stem cells are the only type of heterogeneous cancer cells to develop into tumors.",
+      "page_number": 3
+    },
+    {
+      "document": "0659_sample_CancerBasics.pdf",
+      "refined_text": "Programmed cell death pathways in cancer: A review of apoptosis, autophagy and",
+      "page_number": 18
+    },
+    {
+      "document": "0659_sample_CancerBasics.pdf",
+      "refined_text": "A patient’s tumor has a mutation in a copy of her p53 gene. The mutation results in a shortened, nonfunctional protein.",
+      "page_number": 19
+    },
+    {
+      "document": "0659_sample_CancerBasics.pdf",
+      "refined_text": "cancers may have a varying mixture of driver and passenger mutations but still appear with similar phenotypes. Much of the scientific evidence about the development of cancer and its progression suggests that genomic instability is a precursor to changes associated with transformation of a cell into malignancy.",
+      "page_number": 7
+    }
+  ]
+}

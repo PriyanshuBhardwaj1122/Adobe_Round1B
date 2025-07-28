@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Beginners-Guide-to-Spanish.pdf"
+    ],
+    "persona": "Student",
+    "job_to_be_done": "Identify and study the key concepts for exam preparation",
+    "processing_timestamp": "2025-07-26T17:20:52.413Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "Beginners-Guide-to-Spanish.pdf",
+      "section_title": "Ellos/Ellas",
+      "importance_rank": 1,
+      "page_number": 7
+    },
+    {
+      "document": "Beginners-Guide-to-Spanish.pdf",
+      "section_title": "PERSONAL PRONOUNS",
+      "importance_rank": 2,
+      "page_number": 8
+    },
+    {
+      "document": "Beginners-Guide-to-Spanish.pdf",
+      "section_title": "-AR VERBS",
+      "importance_rank": 3,
+      "page_number": 13
+    },
+    {
+      "document": "Beginners-Guide-to-Spanish.pdf",
+      "section_title": "3. ei verbs",
+      "importance_rank": 4,
+      "page_number": 19
+    },
+    {
+      "document": "Beginners-Guide-to-Spanish.pdf",
+      "section_title": "-IR VERBS",
+      "importance_rank": 5,
+      "page_number": 15
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Beginners-Guide-to-Spanish.pdf",
+      "refined_text": "This is because the verb conjugation will identify the subject. They (masculine/feminine) Spanish personal pronouns serve the same purpose as in English, but they can be a bit trickier for a few reasons.",
+      "page_number": 7
+    },
+    {
+      "document": "Beginners-Guide-to-Spanish.pdf",
+      "refined_text": "But in Spain, “vosotros” is used for the plural, informal “you.” Then there’s the confusing concept of “voseo”. In the Southern Cone (Argentina, Uruguay, and Paraguary) and some parts of Central America, “vos” is used as the single “you”.",
+      "page_number": 8
+    },
+    {
+      "document": "Beginners-Guide-to-Spanish.pdf",
+      "refined_text": "To conjugate –ar verbs, drop the –ar from the end of the verb (this forms the “root”) and append the correct conjugation suffix. Verbs ending in –ar are conjugated using the following endings:",
+      "page_number": 13
+    },
+    {
+      "document": "Beginners-Guide-to-Spanish.pdf",
+      "refined_text": "In some verbs, “e” becomes “i” in the stem when conjugated, except in the nosotros and vosotros forms. Example: pedir (to ask) Yo pido Tú pides Él/ella/usted pide Nosotros(as) pedimos Vosotros(as) pedís Ellos/ellas/ustedes piden The following verbs are all “ei” verbs: competir (to compete) impedir (to stop) rendir (to produce, yield) servir (to serve) vestir(se) (to (get) dressed) despedir (to say goodbye) medir (to measure) repetir (to repeat) teñir (to dye)",
+      "page_number": 19
+    },
+    {
+      "document": "Beginners-Guide-to-Spanish.pdf",
+      "refined_text": "To conjugate –ir verbs, drop the –ir and add the same endings are –er verbs (with the exception of vosotros, for the Castilian Spanish learners among us!) The third group of verbs, known as –ir verbs, includes verbs that end in –ir, such as vivir (to live) or escribir (to write).",
+      "page_number": 15
+    }
+  ]
+}

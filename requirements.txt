@@ -1,0 +1,2 @@
+# This project is intentionally light on dependencies to support offline execution.
+# All required functionality is implemented with Python’s standard library.

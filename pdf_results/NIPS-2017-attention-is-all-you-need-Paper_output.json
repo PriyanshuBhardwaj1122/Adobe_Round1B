@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "input_documents": [
+      "NIPS-2017-attention-is-all-you-need-Paper.pdf"
+    ],
+    "persona": "Researcher",
+    "job_to_be_done": "Prepare a literature review of the document’s contributions",
+    "processing_timestamp": "2025-07-26T17:20:01.082Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+      "section_title": "Why Self-Attention",
+      "importance_rank": 1,
+      "page_number": 6
+    },
+    {
+      "document": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+      "section_title": "Machine Translation",
+      "importance_rank": 2,
+      "page_number": 8
+    },
+    {
+      "document": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+      "section_title": "[31, 2, 8].",
+      "importance_rank": 3,
+      "page_number": 5
+    },
+    {
+      "document": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 4,
+      "page_number": 9
+    },
+    {
+      "document": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+      "section_title": "Model Variations",
+      "importance_rank": 5,
+      "page_number": 8
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+      "refined_text": "One is the total computational complexity per layer. Another is the amount of computation that can be parallelized, as measured by the minimum number of sequential operations required.",
+      "page_number": 6
+    },
+    {
+      "document": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+      "refined_text": "The configuration of this model is listed in the bottom line of Table 3. Even our base model surpasses all previously published models and ensembles, at a fraction of the training cost of any of the competitive models.",
+      "page_number": 8
+    },
+    {
+      "document": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+      "refined_text": "• The encoder contains self-attention layers. Each position in the encoder can attend to all positions in the previous layer of the encoder.",
+      "page_number": 5
+    },
+    {
+      "document": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+      "refined_text": "On both WMT 2014 English-to-German and WMT 2014 English-to-French translation tasks, we achieve a new state of the art. We are excited about the future of attention-based models and plan to apply them to other tasks.",
+      "page_number": 9
+    },
+    {
+      "document": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+      "refined_text": "In Table 3 rows (A), we vary the number of attention heads and the attention key and value dimensions, keeping the amount of computation constant, as described in Section 3.2.2. To evaluate the importance of different components of the Transformer, we varied our base model in different ways, measuring the change in performance on English-to-German translation on the development set, newstest2013.",
+      "page_number": 8
+    }
+  ]
+}
